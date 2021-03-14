@@ -6,6 +6,6 @@ So what makes citizens perceive themselves to be happy or not? Does money really
 
 Throughout this analysis we will be looking at: six measurable categories contributing to a happiness score, the correlation of those categories to a happiness score, industry leading experts scores to explain life evaluations that were over or underexplained by the other categories, the happiest and least happiest countries, and the highest scoring countries in individual categories. 
 
-
+Presentation in Tableau can be found [here](https://public.tableau.com/profile/samantha.quan#!/vizhome/WorldHappinessAnalysis_16100897832080/WorldHappinessAnalysis2015-2019).
 
 World Happiness Analysis Data Citation: Sustainable Development Soluions Network. World Happiness Report, Version 2. Retrieved January 4, 2021 from https://www.kaggle.com/unsdsn/world-happiness.
